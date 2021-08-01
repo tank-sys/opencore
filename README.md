@@ -44,3 +44,7 @@
 <tr>
 <td></td>
 <td>VIA VL800 (lower 4 ports on rear), <strong>Unsupported</strong>
+  </td></tr>
+</table>
+
+<img src="https://static.gigabyte.com/StaticFile/Image/Global/1161dd75470bbb347310fed3d2d280fa/Product/8692/png/1000" width="100">
