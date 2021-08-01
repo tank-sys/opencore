@@ -1,6 +1,6 @@
 # <a href="https://www.gigabyte.com/Motherboard/GA-Z77-D3H-rev-10#ov" target="_blank">GA-Z77-D3H Hackintosh</a>
 
-#<g-emoji class="g-emoji" alias="desktop_computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png">🖥</g-emoji> Hardware Details</h2>
+# <g-emoji class="g-emoji" alias="desktop_computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png">🖥</g-emoji> Hardware Details</h2>
 <table>
 <thead>
 <tr>
