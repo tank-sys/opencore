@@ -36,6 +36,14 @@
 <td></td>
 <td>2 Port Etron EJ168 chips on the back panel</td>
 </tr>
+<tr>
+<td>KBM</td>
+<td>PS2 Keyboard</td>
+</tr>
+<tr>
+<td></td>
+<td>USB Mouse</td>
+</tr>
 </table>
 
 # Gambar Mobo
