@@ -43,6 +43,5 @@
 </tr>
 </table>
 
-<img src="https://static.gigabyte.com/StaticFile/Image/Global/1161dd75470bbb347310fed3d2d280fa/Product/8692/png/1000" width="300">
-<img src="https://static.gigabyte.com/StaticFile/Image/Global/bb46101b4eeeaf30b02ee596b7264d68/Product/8694/webp/1000" width="300">
+<img src="https://static.gigabyte.com/StaticFile/Image/Global/1161dd75470bbb347310fed3d2d280fa/Product/8692/png/1000" width="250"><img src="https://static.gigabyte.com/StaticFile/Image/Global/bb46101b4eeeaf30b02ee596b7264d68/Product/8694/webp/1000" width="250">
 
