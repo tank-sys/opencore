@@ -25,10 +25,6 @@
 <td>Network</td>
 <td>Atheros GbE LAN chip (10/100/1000 Mbit)</td>
 </tr>
-<tr>
-<td></td>
-<td></td>
-<tr>
 <td>USB</td>
 <td>Intel USB2/3 7 series chipset</td>
 </tr>
