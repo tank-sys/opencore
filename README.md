@@ -27,11 +27,11 @@
 </tr>
 <tr>
 <td>Network</td>
-<td>Atheros AR8151 v2.0</td>
+<td>Atheros v2.0</td>
 </tr>
 <tr>
 <td></td>
-<td>BCM943602CS (Identified as BCM94360CD) AirPort Extreme  (0x14E4, 0x133)</td>
+<td></td>
 </tr>
 <tr>
 <td>Bluetooth</td>
@@ -41,10 +41,6 @@
 <td>USB</td>
 <td>Intel USB2/3 7 series chipset</td>
 </tr>
-<tr>
-<td></td>
-<td>VIA VL800 (lower 4 ports on rear), <strong>Unsupported</strong>
-  </td></tr>
 </table>
 
 <img src="https://static.gigabyte.com/StaticFile/Image/Global/1161dd75470bbb347310fed3d2d280fa/Product/8692/png/1000" width="300">
