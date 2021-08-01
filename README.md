@@ -6,8 +6,7 @@
 |Mobo| GA-Z77-D3H|
 |GFX| Intel HD4000 |
 | Audio | Via VT2021 |
-| Network | Atheros AR8151 v2.0 |
-|  | BCM943602CS (Identified as BCM94360CD) AirPort Extreme  (0x14E4, 0x133) |
+| Network | Atheros |
 | USB | Intel USB2/3 7 series chipset |
 |  | Up to 2 USB 3.0/2.0 ports on the back panel |
 
