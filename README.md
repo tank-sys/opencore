@@ -15,10 +15,6 @@
 </tr>
 <tr>
 <td>GFX</td>
-<td>None</td>
-</tr>
-<tr>
-<td></td>
 <td>Intel HD4000</td>
 </tr>
 <tr>
@@ -32,11 +28,6 @@
 <tr>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td>Bluetooth</td>
-<td>BCM943602CS</td>
-</tr>
 <tr>
 <td>USB</td>
 <td>Intel USB2/3 7 series chipset</td>
